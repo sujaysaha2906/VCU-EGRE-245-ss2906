@@ -1,0 +1,5 @@
+Alice_Smith 101 42 98.7 1
+Bob_Jones 102 67 101.2 2
+Carol_White 103 55 99.1 1
+David_Clark 104 73 100.4 3
+Eva_Brown 105 36 98.5 1
