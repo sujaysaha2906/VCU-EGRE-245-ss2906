@@ -1,5 +1,6 @@
 # VSCode C/C++ extension
 .vscode
+.idea
 
 # Prerequisites
 *.d
